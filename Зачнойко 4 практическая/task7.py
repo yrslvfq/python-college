@@ -1,5 +1,5 @@
-name = int(input())
-print((name + 3) // 4)
+nomer_kupe = int(input())
+print((nomer_kupe + 3) // 4)
 
 
 
